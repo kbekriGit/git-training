@@ -1,0 +1,19 @@
+ Sites à scanner :
+ - voyages-sncf.com
+ - ryanair.com
+ - eurolines.fr
+ - eurostar.com
+ 
+ Langage de programmation de l'application : 
+ Java
+
+ Serveur d'application :
+ Tomcat 7
+
+ Couleurs de l'application : 
+  Rouge sur fond vert
+
+  Technologies Web :
+  - Servlet & JSP
+  - Wicket 
+  - Struts2
