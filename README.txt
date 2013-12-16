@@ -1,1 +1,1 @@
-fichier readme du projet ;)
+Les taches techniques à effectuer sont dans le fichier TODO.txt
